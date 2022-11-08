@@ -21,8 +21,6 @@ const overwatch = [
     } 
 ]
 
-//overwatch.forEach(info => console.log(overwatch[0]))
-
 for (i = 0; i < overwatch.length; i++) {
    // console.log(overwatch[i]);
 
