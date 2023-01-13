@@ -14,3 +14,6 @@ notas.forEach(function(nota){
 let media = somaDasNotas/notas.length
 
 console.log(media)
+
+
+
